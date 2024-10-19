@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Manav Jadhav! 👋
 
-<!--
-**Manav-2808/Manav-2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing an MSc with a specialization in **Data Science**. I have a deep passion for working with data and uncovering insights through analytics and visualization. My academic journey includes a **Bachelor's in Computer Application** from **St. Xavier's College, Ahmedabad**, where I was awarded a **Gold Medal** for my achievements in the **Research Program in IT**.
 
-Here are some ideas to get you started:
+### 🌟 Key Skills:
+- **Programming:** Python, SQL
+- **Data Visualization:** Tableau, Power BI, Matplotlib
+- **Data Manipulation:** Pandas, NumPy
+- **Tools:** Excel, Jupyter Notebooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 What I’m currently working on:
+I’m constantly expanding my knowledge in **Data Science** and experimenting with various data analytics projects. Currently, I’m focusing on:
+- Machine Learning models
+- Data cleaning and visualization
+- Exploratory data analysis using real-world datasets
+
+### 🔗 Connect with Me:
+- LinkedIn: [Manav Jadhav]([https://www.linkedin.com](https://www.linkedin.com/in/manav-jadhav-850922245/)) <!-- Replace with actual link -->
+- Email: manavjadhav1308@gmail.com <!-- Replace with actual email -->
+
+Feel free to explore my repositories to see the projects I've been working on, from data analysis to visualizations and more!
